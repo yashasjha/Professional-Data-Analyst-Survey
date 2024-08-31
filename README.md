@@ -1,0 +1,1 @@
+This is a data analysis based on the data collected via a survey based on the profession of the survey takers. They were from various countires with varying experiences. In the end, a dashboard was designed to highligh the key insights of this survey.
